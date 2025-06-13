@@ -1,1 +1,0 @@
-# Approximate-Comparator-Designs-for-Area-Efficient-Digital-Systems
