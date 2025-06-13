@@ -1,0 +1,9 @@
+Bit_Width,Comparator_Type,Accuracy_Percent,Gate_Count,Wire_Count
+4,Exact,100,48,52
+4,Approx,90,33,36
+8,Exact,100,95,104
+8,Approx,89,57,61
+16,Exact,100,188,206
+16,Approx,87,103,114
+32,Exact,100,365,396
+32,Approx,86,193,215
