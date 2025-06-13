@@ -4,7 +4,7 @@
 
 
 
-The work present in this repository presents a complete design and evaluation framework for **area-efficient approximate comparators** across multiple bit-widths (4, 8, 16, and 32 bits). It includes Verilog-based hardware modules, testbenches, waveform outputs, synthesis reports, and accuracy/area analysis scripts. The main objective is to reduce logic complexity while preserving functional accuracy above 85%.
+The work in this project was done as part of my M.tech course in NIT Silchar as a mini-project. It presents presents a complete design and evaluation framework for **area-efficient approximate comparators** across multiple bit-widths (4, 8, 16, and 32 bits). It includes Verilog-based hardware modules, testbenches, waveform outputs, synthesis reports, and accuracy/area analysis scripts. The main objective is to reduce logic complexity while preserving functional accuracy above 85%.
 
 ---
 
