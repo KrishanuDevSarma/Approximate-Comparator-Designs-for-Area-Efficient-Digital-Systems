@@ -32,7 +32,7 @@ Each technique was applied selectively based on the complexity and size of the c
 
 ## 2. Gate Substitution
 
-![Gate Substitution Diagram](../Docs/Images/gate_substitution.png)
+![Gate Substitution Diagram](../Docs/Images/gate_substitution.jpg)
 
 **Gate Substitution** involves replacing complex logic gates or compound logic expressions with simpler, lower-cost approximations. This results in logic that mimics expected behavior in most scenarios but deviates in edge cases.
 
